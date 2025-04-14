@@ -16,3 +16,15 @@ Fraudulent transactions pose a significant challenge in finance and e-commerce. 
    > Evaluation using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
 
    > Saved the final model (Fraud_Detection_Model.jb) and label encoders (label_Encoders.jb) for future use.
+
+⚙️ Technologies Used
+Python
+
+Pandas, NumPy
+
+Scikit-learn
+
+Imbalanced-learn (SMOTE)
+
+Joblib (for model serialization)
+
