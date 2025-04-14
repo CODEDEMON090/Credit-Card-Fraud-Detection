@@ -28,3 +28,20 @@ Imbalanced-learn (SMOTE)
 
 Joblib (for model serialization)
 
+
+📊 Evaluation Metrics
+Accuracy: Overall correctness
+
+Precision: Fraction of predicted frauds that were correct
+
+Recall: Fraction of actual frauds that were detected
+
+F1-score: Balance between precision and recall
+
+ROC-AUC: Ability to distinguish between classes
+
+
+📌 Author
+Mohd Azam
+Feel free to reach out or contribute!
+
